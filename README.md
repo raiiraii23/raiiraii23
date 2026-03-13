@@ -59,17 +59,17 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryangeorge04&show_icons=true&theme=radical" alt="Ryan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raiiraii23&show_icons=true&theme=radical" alt="Ryan's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangeorge04&theme=radical" alt="Ryan's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiiraii23&theme=radical" alt="Ryan's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryangeorge04&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiiraii23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryangeorge04&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raiiraii23&theme=radical" alt="Profile Details" />
 </p>
