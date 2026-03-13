@@ -53,7 +53,7 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryangeorge04&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raiiraii23&theme=radical&no-frame=true" />
 </p>
 
 ### 📊 GitHub Stats
