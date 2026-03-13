@@ -1,32 +1,75 @@
-## 👨‍💻 Ryan Vincent | Senior Software Engineer
+# 👨‍💻 Ryan Vincent | Senior Software Engineer
 
 ### 🚀 About Me
 
-I am a **Senior Software Engineer** and builder with a passion for architecting high-performance, production-ready solutions. I specialize in bridging the gap between complex backend architectures and seamless user experiences, with a focus on real-time systems and AI-integrated platforms.
+I am a **Senior Software Engineer** and builder with a passion for architecting high-performance, production-ready solutions. I specialize in bridging the gap between complex backend architectures and seamless user experiences.
 
-- 💻 **Web Development**: Expert-level development using **Laravel** and **Next.js** for scalable enterprise dashboards and public data portals.
-- 📱 **Mobile Development**: Crafting high-performance, cross-platform mobile experiences with **Flutter**.
-- ⚙️ **Backend Systems**: Designing robust, high-concurrency server environments utilizing **Go (Golang)**, **Python (FastAPI)**, and **Node.js**.
-- 🔄 **DevOps & Infrastructure**: Specialized in **Dockerization**, establishing automated **CI/CD pipelines**, and managing large-scale infrastructure migrations.
+* 💻 **Web Development**: Building modern, responsive web applications using **Next.js** and **Laravel**.
+* 📱 **Mobile Development**: Creating cross-platform mobile apps with **Flutter**.
+* ⚙️ **Backend Systems**: Designing robust server architectures with **Go (Golang)**, **Python (FastAPI)**, and **Node.js**.
+* 🔄 **Infrastructure**: Managing scalable environments with **Docker** and automated **CI/CD pipelines**.
 
-Currently focused on developing intelligent monitoring solutions and GIS-integrated systems while ensuring the highest standards of code quality and system security.
-
----
+Currently focused on developing innovative solutions that bridge web and mobile platforms, while maintaining a strong emphasis on performance, user experience, and code quality.
 
 ### 💻 Tech Stack
 
-```javascript
-const ryanVincent = {
-  pronouns: "He" | "Him",
-  code: ["PHP", "JavaScript", "Go", "Python", "Dart"],
-  technologies: {
-    frontend: {
-      web: ["Next.js", "React", "TailwindCSS"],
-      mobile: ["Flutter"]
-    },
-    backend: ["Laravel", "FastAPI", "Node.js", "Go"],
-    database: ["PostgreSQL", "MySQL", "Redis"],
-    devOps: ["Docker", "GitLab CI/CD", "GitHub Actions", "Nginx"]
-  },
-  currentFocus: "AI-integrated security nodes & GIS dashboards"
-};
+**Languages:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,go,py,dart" />
+</p>
+
+**Frontend Development:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap" />
+</p>
+
+**Backend Development:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi" />
+</p>
+
+**Database & Cloud:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,aws,docker" />
+</p>
+
+**Mobile Development:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+**Tools & Others:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gitlab,github,postman,linux,nginx,figma" />
+</p>
+
+### 📫 Let's Connect
+
+* 💼 **Open for collaboration** on innovative projects
+* 📧 **Reach out** for professional opportunities
+* 🤝 **Always interested** in connecting with fellow developers
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryangeorge04&theme=radical&no-frame=true" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryangeorge04&show_icons=true&theme=radical" alt="Ryan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangeorge04&theme=radical" alt="Ryan's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryangeorge04&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryangeorge04&theme=radical" alt="Profile Details" />
+</p>
